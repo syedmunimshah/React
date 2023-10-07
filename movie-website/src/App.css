@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:wght@100&family=Mulish:wght@300&family=PT+Serif:wght@400;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+body{
+ background-color: #222326;
+ font-family: 'PT Serif', serif;
+ color: #E2CFC0;
+}
+.heading{
+    
+    text-shadow: 1px  1px #ff0606;
+    font-size: 459%;
+    color: #E2CFC0;
+    margin: 30px auto;
+    filter: drop-shadow(1px 1px 1px #ffffff);
+    
+}
+.search{
+    
+    width: 35%;
+    margin: 0px auto;
+    position: relative;
+
+}
+.form-control{
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    border-radius: 50px;
+    padding: 15px 20px;
+    background-color: #222326;
+    color: #E2CFC0;
+    border: solid 1px #E2CFC0;
+   
+}
+.form-control:hover{
+   
+    background-color: #222326;
+    color: #E2CFC0;
+   
+   
+}
+::placeholder{
+    color: #E2CFC0!important;
+    
+ 
+   
+}
+
+i{
+    color: #E2CFC0!important;
+    position: absolute;
+    top: 10px;
+    right: 35px;
+    font-size: 25px;
+    
+}
+img{
+    border-top-left-radius: 15px;
+    border-top-Right-radius: 15px;
+    width: 100%;
+}
+
+.darkk{
+    box-shadow: rgba(31, 30, 30, 0.19) 0px 10px 20px, rgba(41, 40, 40, 0.23) 0px 6px 6px;
+    background-color: #222121;
+
+    margin-bottom: 30px;
+    border-bottom-left-radius: 15px;
+    border-bottom-Right-radius: 15px;
+    padding: 10px 20px;
+  
+}
+
+
+
+.movie:hover{
+    box-shadow: rgba(255, 0, 0, 0.19) 0px 10px 20px, rgba(255, 187, 1, 0.23) 0px 6px 6px;
+    border-bottom-left-radius: 15px;
+    border-bottom-Right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-Right-radius: 15px;
+
+}
+.movie {
+    position: relative;
+    width: 100%;
+    padding: 10px;
+    
+  }
+.movie-Year{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+color: #E2CFC0;
+padding: 5px 10px;
+border-radius: 5px;
+background-color: #222121;
+
+
+
+}
