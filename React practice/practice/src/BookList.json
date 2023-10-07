@@ -1,0 +1,35 @@
+[
+
+    {
+      "img" : "https://m.media-amazon.com/images/I/51LkCWROTIL.jpg",
+      "heading" : "Heading1",
+      "para" : "1Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero, eum!",
+      "btn" : "click 1",
+      "name": "Abdul"
+ 
+   },
+   {
+    "img" : "https://m.media-amazon.com/images/I/417xxJL3dTL._SY346_.jpg",
+    "heading" : "Heading1",
+    "para" : "1Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero, eum!",
+    "btn" : "click 1",
+    "name": "Munim"
+
+ },
+ {
+    "img" : "https://m.media-amazon.com/images/I/417xxJL3dTL._SY346_.jpg",
+    "heading" : "Heading1",
+    "para" : "1Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero, eum!",
+    "btn" : "click 1",
+    "name": "syed"
+
+ }, {
+    "img" : "https://m.media-amazon.com/images/I/417xxJL3dTL._SY346_.jpg",
+    "heading" : "Heading1",
+    "para" : "1Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero, eum!",
+    "btn" : "click 1",
+    "name": "Ali"
+
+ }
+
+  ]
